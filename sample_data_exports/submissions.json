@@ -1,0 +1,442 @@
+[
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a634"
+    },
+    "submissionId": "f05d132c-5b8f-4480-a427-f42689191a6e",
+    "assignmentId": "81619be9-0f51-4f20-a98c-7c728ffded4a",
+    "studentId": "4d952d16-fbd1-4256-aef9-907de165da21",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s0",
+    "status": "submitted"
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a635"
+    },
+    "submissionId": "769a08b8-d024-4031-a88f-b1af962195b9",
+    "assignmentId": "82cf9435-a61f-4ef4-9224-2c49cbf576ce",
+    "studentId": "0f29b289-49b8-4fee-b744-4b70bb8f19cd",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s1",
+    "status": "submitted"
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a636"
+    },
+    "submissionId": "260d92c9-3627-4f18-8c2e-4c4bb324299d",
+    "assignmentId": "82cf9435-a61f-4ef4-9224-2c49cbf576ce",
+    "studentId": "d3a329fe-12b8-4e19-917c-6ec05b1f148b",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s2",
+    "status": "graded",
+    "grade": {
+      "score": 80,
+      "feedback": "Good job!",
+      "gradedAt": {
+        "$date": "2025-06-16T01:09:36.002Z"
+      },
+      "gradedBy": "84da293b-178a-4878-9015-a27e48b6b2f8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a637"
+    },
+    "submissionId": "9f8c7dcb-d0aa-4d25-bc27-5a7dbf4bad3d",
+    "assignmentId": "e3caff7b-c682-4a1c-887b-43131e103652",
+    "studentId": "1cb53613-d99c-4033-bafe-fbd0c10ab630",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s3",
+    "status": "submitted"
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a638"
+    },
+    "submissionId": "b043b39e-5de9-4869-aa54-b5daa4d14a34",
+    "assignmentId": "9b32da47-4778-46d4-acac-333a297956cd",
+    "studentId": "445f7800-3286-4c4f-9b64-def7566e8364",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s4",
+    "status": "submitted"
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a639"
+    },
+    "submissionId": "c164dc29-5ee6-4446-9023-46be8d4ff857",
+    "assignmentId": "e3caff7b-c682-4a1c-887b-43131e103652",
+    "studentId": "d3a329fe-12b8-4e19-917c-6ec05b1f148b",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s5",
+    "status": "graded",
+    "grade": {
+      "score": 54,
+      "feedback": "Good job!",
+      "gradedAt": {
+        "$date": "2025-06-16T01:09:36.002Z"
+      },
+      "gradedBy": "84da293b-178a-4878-9015-a27e48b6b2f8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a63a"
+    },
+    "submissionId": "cbf39097-9b5b-40c6-b0ec-842034dda978",
+    "assignmentId": "07a88277-4481-46ad-a77b-e71db41e7a26",
+    "studentId": "445f7800-3286-4c4f-9b64-def7566e8364",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s6",
+    "status": "submitted"
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a63b"
+    },
+    "submissionId": "68145116-4196-4065-873b-4eeb5a94e9d6",
+    "assignmentId": "e872e209-e94a-43ae-90c5-03fe9765f6e2",
+    "studentId": "d3a329fe-12b8-4e19-917c-6ec05b1f148b",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s7",
+    "status": "submitted"
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a63c"
+    },
+    "submissionId": "72839ced-ad4f-4e47-8e93-c90cf3060f70",
+    "assignmentId": "0ce1c92c-0636-4270-8716-1800cb5d6e33",
+    "studentId": "0f29b289-49b8-4fee-b744-4b70bb8f19cd",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s8",
+    "status": "graded",
+    "grade": {
+      "score": 25,
+      "feedback": "Good job!",
+      "gradedAt": {
+        "$date": "2025-06-16T01:09:36.002Z"
+      },
+      "gradedBy": "b324076a-88cf-4ab9-a358-09783f14c6c6"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a63d"
+    },
+    "submissionId": "77b5085d-4e0c-4ed7-820b-9b3b2a057020",
+    "assignmentId": "07a88277-4481-46ad-a77b-e71db41e7a26",
+    "studentId": "d3a329fe-12b8-4e19-917c-6ec05b1f148b",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s9",
+    "status": "submitted"
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a63e"
+    },
+    "submissionId": "b7e9401e-b105-437b-92a6-09b3360e384d",
+    "assignmentId": "cd746046-4c8b-452c-8b86-bb84ca967b18",
+    "studentId": "46d6939a-3e62-442e-a352-c1a156807c5f",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s10",
+    "status": "graded",
+    "grade": {
+      "score": 58,
+      "feedback": "Good job!",
+      "gradedAt": {
+        "$date": "2025-06-16T01:09:36.002Z"
+      },
+      "gradedBy": "c23a54f5-3fa1-4b0b-a4c6-f2489c6d936e"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc3301e9483271544a63f"
+    },
+    "submissionId": "446ff718-f2bc-4e9b-8bf0-30d9d0632517",
+    "assignmentId": "0ce1c92c-0636-4270-8716-1800cb5d6e33",
+    "studentId": "46d6939a-3e62-442e-a352-c1a156807c5f",
+    "submittedAt": {
+      "$date": "2025-06-16T01:09:36.002Z"
+    },
+    "content": "https://submissions.com/s11",
+    "status": "submitted"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a659"
+    },
+    "submissionId": "54b16ea4-5843-43cd-a994-7b727a9afd64",
+    "assignmentId": "75bc475c-1df5-4ef4-82ca-ad6385913d37",
+    "studentId": "4bb9aa90-523c-4930-808e-612a205bbcb7",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.514Z"
+    },
+    "content": "https://submissions.com/s0",
+    "grade": {
+      "score": 84,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "45c5f4ca-844a-4a84-85ed-dd629e67a36c"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a65a"
+    },
+    "submissionId": "5bf018d7-922f-47b3-8343-dbe0b1e79a02",
+    "assignmentId": "75bc475c-1df5-4ef4-82ca-ad6385913d37",
+    "studentId": "2147e3e1-112f-4510-a013-f36e7ae1ea34",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s1",
+    "grade": {
+      "score": 91,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "bb1e71ae-dd01-40e5-aa6f-f5792512617b"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a65b"
+    },
+    "submissionId": "cbf409c3-d5b8-417e-89e9-1e833ece52ed",
+    "assignmentId": "9b32da47-4778-46d4-acac-333a297956cd",
+    "studentId": "4bb9aa90-523c-4930-808e-612a205bbcb7",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s2",
+    "grade": {
+      "score": 90,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "7947987a-80e0-4534-9d66-5ddb22afae73"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a65c"
+    },
+    "submissionId": "98167062-f7aa-4b80-8a9d-0de2fe3da535",
+    "assignmentId": "d62571cb-0268-4db5-bd03-a4ed4fb27dff",
+    "studentId": "1158dfed-6077-492d-b037-f066f28256fc",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s3",
+    "grade": {
+      "score": 91,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "987c308b-eefb-49e3-abc1-738f0c1662e9"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a65d"
+    },
+    "submissionId": "928d90d6-e737-435d-bb3e-3e5d60313305",
+    "assignmentId": "e3caff7b-c682-4a1c-887b-43131e103652",
+    "studentId": "2147e3e1-112f-4510-a013-f36e7ae1ea34",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s4",
+    "grade": {
+      "score": 63,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "6b1f4e01-af6e-4d42-80f6-45be62d5b3fb"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a65e"
+    },
+    "submissionId": "1da02117-bb8b-449e-aa2b-cb3821543bd3",
+    "assignmentId": "0ce1c92c-0636-4270-8716-1800cb5d6e33",
+    "studentId": "0bd95c3e-a85c-4079-9de0-4adf45db6ec7",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s5",
+    "grade": {
+      "score": 88,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "087ec44b-44d3-4b13-98d7-081f70721e75"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a65f"
+    },
+    "submissionId": "a73b37d0-acf2-45ac-b34f-4697dcb4ede4",
+    "assignmentId": "d62571cb-0268-4db5-bd03-a4ed4fb27dff",
+    "studentId": "097a1659-9b60-4f2a-922a-dfe0fc6f70a0",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s6",
+    "grade": {
+      "score": 64,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "94b94a2d-9b42-46ad-a298-3cf11c1b237f"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a660"
+    },
+    "submissionId": "1ec8f5e5-7fa8-4259-9b78-963adac2fab7",
+    "assignmentId": "0ce1c92c-0636-4270-8716-1800cb5d6e33",
+    "studentId": "1158dfed-6077-492d-b037-f066f28256fc",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s7",
+    "grade": {
+      "score": 96,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "45c5f4ca-844a-4a84-85ed-dd629e67a36c"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a661"
+    },
+    "submissionId": "587e39f0-3bea-4680-8cbb-865a995ff5fa",
+    "assignmentId": "0ce1c92c-0636-4270-8716-1800cb5d6e33",
+    "studentId": "40e849aa-21d8-4174-8a9a-8f878982377f",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s8",
+    "grade": {
+      "score": 94,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "087ec44b-44d3-4b13-98d7-081f70721e75"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a662"
+    },
+    "submissionId": "dd5a4f30-d6a6-4606-b300-337ba4b9a689",
+    "assignmentId": "81619be9-0f51-4f20-a98c-7c728ffded4a",
+    "studentId": "1158dfed-6077-492d-b037-f066f28256fc",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s9",
+    "grade": {
+      "score": 64,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "45c5f4ca-844a-4a84-85ed-dd629e67a36c"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a663"
+    },
+    "submissionId": "e7eff4ab-a173-4e16-8106-fdb104ed4bdc",
+    "assignmentId": "d62571cb-0268-4db5-bd03-a4ed4fb27dff",
+    "studentId": "2147e3e1-112f-4510-a013-f36e7ae1ea34",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s10",
+    "grade": {
+      "score": 73,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "363b3454-b7e4-430b-813b-bd84fe263cb8"
+    },
+    "status": "graded"
+  },
+  {
+    "_id": {
+      "$oid": "68505d471e9483271544a664"
+    },
+    "submissionId": "3b29065b-9a38-4ab0-9f86-46298e021c77",
+    "assignmentId": "81619be9-0f51-4f20-a98c-7c728ffded4a",
+    "studentId": "40e849aa-21d8-4174-8a9a-8f878982377f",
+    "submittedAt": {
+      "$date": "2025-06-16T12:07:03.515Z"
+    },
+    "content": "https://submissions.com/s11",
+    "grade": {
+      "score": 60,
+      "feedback": "Nice work!",
+      "gradedAt": {
+        "$date": "2025-06-16T12:07:03.515Z"
+      },
+      "gradedBy": "363b3454-b7e4-430b-813b-bd84fe263cb8"
+    },
+    "status": "graded"
+  }
+]

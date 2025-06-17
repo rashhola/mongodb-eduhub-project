@@ -1,0 +1,22 @@
+_id,userId,email,firstName,lastName,role,dateJoined,isActive,profile.bio,profile.avatar,profile.skills
+684fcbd81e9483271544a641,363b3454-b7e4-430b-813b-bd84fe263cb8,user0@eduhub.com,First0,Last0,instructor,2025-06-16 01:46:32.410,True,This is user 0's bio.,https://avatar.com/u0.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a642,bc6dd3a0-86bf-44d1-8940-2b5ca5caefd4,user1@eduhub.com,First1,Last1,student,2025-06-16 01:46:32.410,True,Updated bio for user1.,https://new-avatar.com/u1.png,['Python']
+684fcbd81e9483271544a643,2d96a2d3-adbe-4a79-90ed-3d7374a344a1,user2@eduhub.com,First2,Last2,instructor,2025-06-16 01:46:32.410,True,This is user 2's bio.,https://avatar.com/u2.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a644,a4a71120-aba3-42a0-ac0d-8945cb7afc80,user3@eduhub.com,First3,Last3,student,2025-06-16 01:46:32.410,True,This is user 3's bio.,https://avatar.com/u3.png,['Python']
+684fcbd81e9483271544a645,e7d117db-882d-4e62-852a-dd340599c765,user4@eduhub.com,First4,Last4,student,2025-06-16 01:46:32.410,True,This is user 4's bio.,https://avatar.com/u4.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a646,7947987a-80e0-4534-9d66-5ddb22afae73,user5@eduhub.com,First5,Last5,instructor,2025-06-16 01:46:32.410,True,This is user 5's bio.,https://avatar.com/u5.png,"['Python', 'Data']"
+684fcbd81e9483271544a647,40e849aa-21d8-4174-8a9a-8f878982377f,user6@eduhub.com,First6,Last6,student,2025-06-16 01:46:32.410,True,This is user 6's bio.,https://avatar.com/u6.png,['Python']
+684fcbd81e9483271544a648,987c308b-eefb-49e3-abc1-738f0c1662e9,user7@eduhub.com,First7,Last7,instructor,2025-06-16 01:46:32.410,True,This is user 7's bio.,https://avatar.com/u7.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a649,45c5f4ca-844a-4a84-85ed-dd629e67a36c,user8@eduhub.com,First8,Last8,instructor,2025-06-16 01:46:32.410,True,This is user 8's bio.,https://avatar.com/u8.png,['Python']
+684fcbd81e9483271544a64a,087ec44b-44d3-4b13-98d7-081f70721e75,user9@eduhub.com,First9,Last9,instructor,2025-06-16 01:46:32.410,True,This is user 9's bio.,https://avatar.com/u9.png,['Python']
+684fcbd81e9483271544a64b,0bd95c3e-a85c-4079-9de0-4adf45db6ec7,user10@eduhub.com,First10,Last10,student,2025-06-16 01:46:32.410,True,This is user 10's bio.,https://avatar.com/u10.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a64c,f4af0a06-53e3-405a-81cb-684e1eb77f0a,user11@eduhub.com,First11,Last11,student,2025-06-16 01:46:32.410,True,This is user 11's bio.,https://avatar.com/u11.png,"['Python', 'Data']"
+684fcbd81e9483271544a64d,4bb9aa90-523c-4930-808e-612a205bbcb7,user12@eduhub.com,First12,Last12,student,2025-06-16 01:46:32.410,True,This is user 12's bio.,https://avatar.com/u12.png,"['Python', 'Data']"
+684fcbd81e9483271544a64e,bb1e71ae-dd01-40e5-aa6f-f5792512617b,user13@eduhub.com,First13,Last13,instructor,2025-06-16 01:46:32.410,True,This is user 13's bio.,https://avatar.com/u13.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a64f,3ec52f73-3704-4c00-94ec-10c2287a0e2d,user14@eduhub.com,First14,Last14,student,2025-06-16 01:46:32.410,True,This is user 14's bio.,https://avatar.com/u14.png,['Python']
+684fcbd81e9483271544a650,6b1f4e01-af6e-4d42-80f6-45be62d5b3fb,user15@eduhub.com,First15,Last15,instructor,2025-06-16 01:46:32.410,True,This is user 15's bio.,https://avatar.com/u15.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a651,4e610178-7d65-4958-8e5e-fb3dcf542fcb,user16@eduhub.com,First16,Last16,student,2025-06-16 01:46:32.410,True,This is user 16's bio.,https://avatar.com/u16.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a652,097a1659-9b60-4f2a-922a-dfe0fc6f70a0,user17@eduhub.com,First17,Last17,student,2025-06-16 01:46:32.410,True,This is user 17's bio.,https://avatar.com/u17.png,"['Python', 'Data', 'Web']"
+684fcbd81e9483271544a653,2147e3e1-112f-4510-a013-f36e7ae1ea34,user18@eduhub.com,First18,Last18,student,2025-06-16 01:46:32.410,True,This is user 18's bio.,https://avatar.com/u18.png,['Python']
+684fcbd81e9483271544a654,94b94a2d-9b42-46ad-a298-3cf11c1b237f,user19@eduhub.com,First19,Last19,instructor,2025-06-16 01:46:32.410,True,This is user 19's bio.,https://avatar.com/u19.png,['Python']
+684fd0a71e9483271544a655,1158dfed-6077-492d-b037-f066f28256fc,ada.okoro@example.com,Ada,Okoro,student,2025-06-16 02:07:03.657,True,A passionate learner,https://example.com/avatar.png,"['Python', 'MongoDB']"

@@ -1,0 +1,444 @@
+[
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a605"
+    },
+    "lessonId": "b700c903-d45d-4d7c-a19c-e76a7bc55565",
+    "courseId": "c1d12b8a-a8c6-4252-85f1-97404ac840fb",
+    "title": "Lesson 0",
+    "content": "Lesson 0 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson0",
+    "position": 1,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a606"
+    },
+    "lessonId": "09849666-df1b-4e9e-b8e6-66524ac07b76",
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Lesson 1",
+    "content": "Lesson 1 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson1",
+    "position": 1,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a607"
+    },
+    "lessonId": "41a30d9d-2e38-455d-a040-cd6eb064ec6a",
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Lesson 2",
+    "content": "Lesson 2 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson2",
+    "position": 5,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a608"
+    },
+    "lessonId": "8e1442c9-23da-4936-831c-caab1fa44c3d",
+    "courseId": "73031f2b-f705-4a90-b77b-15ef8468338d",
+    "title": "Lesson 3",
+    "content": "Lesson 3 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson3",
+    "position": 1,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a609"
+    },
+    "lessonId": "c49c148f-d459-439d-986e-30d5f6f1ad66",
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Lesson 4",
+    "content": "Lesson 4 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson4",
+    "position": 8,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a60a"
+    },
+    "lessonId": "2359585e-da88-4d9c-85ce-38586226cdf3",
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Lesson 5",
+    "content": "Lesson 5 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson5",
+    "position": 3,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a60b"
+    },
+    "lessonId": "c7e08bb2-6d28-42bc-bcc4-05a003edf361",
+    "courseId": "4ef763fb-80c7-48e8-914c-f2f7bdae29cf",
+    "title": "Lesson 6",
+    "content": "Lesson 6 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson6",
+    "position": 9,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a60c"
+    },
+    "lessonId": "c3dd5768-3441-45bd-907a-e8895764f129",
+    "courseId": "11008f8b-bb00-4433-ba16-c891f7278160",
+    "title": "Lesson 7",
+    "content": "Lesson 7 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson7",
+    "position": 1,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.316Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a60d"
+    },
+    "lessonId": "2e98dce6-61b0-4621-9bcd-1d39d88565ba",
+    "courseId": "73031f2b-f705-4a90-b77b-15ef8468338d",
+    "title": "Lesson 8",
+    "content": "Lesson 8 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson8",
+    "position": 3,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a60e"
+    },
+    "lessonId": "2139d659-f62d-4149-862d-4baaf52201be",
+    "courseId": "11008f8b-bb00-4433-ba16-c891f7278160",
+    "title": "Lesson 9",
+    "content": "Lesson 9 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson9",
+    "position": 7,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a60f"
+    },
+    "lessonId": "b98f20d3-3be7-49f4-a46d-01edae1a13e2",
+    "courseId": "040a9bda-b3b6-49ea-a939-563809a1d1fb",
+    "title": "Lesson 10",
+    "content": "Lesson 10 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson10",
+    "position": 7,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a610"
+    },
+    "lessonId": "747b9e21-45b3-48ef-82d0-5a63d081bae2",
+    "courseId": "fbf0c2fd-ca12-4b46-81ec-2c52d40a993f",
+    "title": "Lesson 11",
+    "content": "Lesson 11 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson11",
+    "position": 10,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a611"
+    },
+    "lessonId": "fabe85a2-0e29-4614-9afb-cd1412f9493e",
+    "courseId": "fbf0c2fd-ca12-4b46-81ec-2c52d40a993f",
+    "title": "Lesson 12",
+    "content": "Lesson 12 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson12",
+    "position": 9,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a612"
+    },
+    "lessonId": "077736b1-c398-4188-b23d-73f3030819a1",
+    "courseId": "73031f2b-f705-4a90-b77b-15ef8468338d",
+    "title": "Lesson 13",
+    "content": "Lesson 13 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson13",
+    "position": 9,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a613"
+    },
+    "lessonId": "fe9ef472-47e4-4413-9471-dfdd5387a7c5",
+    "courseId": "040a9bda-b3b6-49ea-a939-563809a1d1fb",
+    "title": "Lesson 14",
+    "content": "Lesson 14 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson14",
+    "position": 9,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a614"
+    },
+    "lessonId": "1c08d064-0409-4681-a527-29cb2bdd4543",
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Lesson 15",
+    "content": "Lesson 15 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson15",
+    "position": 7,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a615"
+    },
+    "lessonId": "5f522156-c224-48f0-a842-12ee2d8b01bd",
+    "courseId": "fbf0c2fd-ca12-4b46-81ec-2c52d40a993f",
+    "title": "Lesson 16",
+    "content": "Lesson 16 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson16",
+    "position": 3,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a616"
+    },
+    "lessonId": "ddf68df4-b69e-4653-a53a-aeddca4c80cc",
+    "courseId": "fbf0c2fd-ca12-4b46-81ec-2c52d40a993f",
+    "title": "Lesson 17",
+    "content": "Lesson 17 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson17",
+    "position": 1,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a617"
+    },
+    "lessonId": "812c455a-1ea1-4884-b99e-20659a5a8f6d",
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Lesson 18",
+    "content": "Lesson 18 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson18",
+    "position": 7,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a618"
+    },
+    "lessonId": "cae00987-4ebc-4292-9043-3dc51da33ad2",
+    "courseId": "8eb2a4be-6637-4632-bb1b-ac5c718b40d9",
+    "title": "Lesson 19",
+    "content": "Lesson 19 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson19",
+    "position": 8,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a619"
+    },
+    "lessonId": "4d972124-e311-4d03-8f7b-507c02a47c9c",
+    "courseId": "8eb2a4be-6637-4632-bb1b-ac5c718b40d9",
+    "title": "Lesson 20",
+    "content": "Lesson 20 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson20",
+    "position": 5,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a61a"
+    },
+    "lessonId": "e14ccee5-6999-457c-a0bc-6ad91528c3bf",
+    "courseId": "4ef763fb-80c7-48e8-914c-f2f7bdae29cf",
+    "title": "Lesson 21",
+    "content": "Lesson 21 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson21",
+    "position": 4,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a61b"
+    },
+    "lessonId": "76c59c03-218e-4a54-8100-9038bfb5a8b5",
+    "courseId": "040a9bda-b3b6-49ea-a939-563809a1d1fb",
+    "title": "Lesson 22",
+    "content": "Lesson 22 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson22",
+    "position": 5,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a61c"
+    },
+    "lessonId": "beeb7235-89d3-4903-92eb-6a6e1346cb76",
+    "courseId": "c1d12b8a-a8c6-4252-85f1-97404ac840fb",
+    "title": "Lesson 23",
+    "content": "Lesson 23 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson23",
+    "position": 8,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fbf781e9483271544a61d"
+    },
+    "lessonId": "22bcb1f3-c463-4b69-9fa9-28cbec274cae",
+    "courseId": "fbf0c2fd-ca12-4b46-81ec-2c52d40a993f",
+    "title": "Lesson 24",
+    "content": "Lesson 24 content in markdown or HTML.",
+    "videoUrl": "https://videos.com/lesson24",
+    "position": 7,
+    "createdAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:53:44.317Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fd0e21e9483271544a658"
+    },
+    "lessonId": "82fccbac-21bb-4dfa-ba81-428ea1b1bbba",
+    "courseId": "bb2f6188-c83e-45e9-9091-523f57beb49c",
+    "title": "Lesson 1: Introduction to Data Visualization",
+    "content": "<p>This lesson covers the basics of data visualization using Python libraries.</p>",
+    "videoUrl": "https://videos.example.com/lesson1",
+    "position": 1,
+    "createdAt": {
+      "$date": "2025-06-16T02:08:02.956Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T02:08:02.956Z"
+    }
+  }
+]

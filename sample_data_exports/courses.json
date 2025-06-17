@@ -1,0 +1,218 @@
+[
+  {
+    "_id": {
+      "$oid": "684fbc191e9483271544a5df"
+    },
+    "courseId": "040a9bda-b3b6-49ea-a939-563809a1d1fb",
+    "title": "Course 0",
+    "description": "This is course 0 description.",
+    "instructorId": "8c2b1b18-94ed-455d-bd7f-3fe54c6b8393",
+    "category": "Cloud",
+    "level": "intermediate",
+    "duration": 5.9,
+    "price": 121.34,
+    "tags": [
+      "tech"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T00:39:21.140Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:39:21.140Z"
+    },
+    "isPublished": true
+  },
+  {
+    "_id": {
+      "$oid": "684fbc191e9483271544a5e0"
+    },
+    "courseId": "c1d12b8a-a8c6-4252-85f1-97404ac840fb",
+    "title": "Course 1",
+    "description": "This is course 1 description.",
+    "instructorId": "5003e27d-dd06-41d4-aa86-e783f5d2cb96",
+    "category": "Cloud",
+    "level": "intermediate",
+    "duration": 2.2,
+    "price": 187.85,
+    "tags": [
+      "tech",
+      "edu"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "isPublished": true
+  },
+  {
+    "_id": {
+      "$oid": "684fbc191e9483271544a5e1"
+    },
+    "courseId": "8eb2a4be-6637-4632-bb1b-ac5c718b40d9",
+    "title": "Course 2",
+    "description": "This is course 2 description.",
+    "instructorId": "25717c0a-40d8-4de1-9fce-85184d6928dc",
+    "category": "Web Dev",
+    "level": "advanced",
+    "duration": 3.7,
+    "price": 91.72,
+    "tags": [
+      "tech"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "isPublished": true
+  },
+  {
+    "_id": {
+      "$oid": "684fbc191e9483271544a5e2"
+    },
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Course 3",
+    "description": "This is course 3 description.",
+    "instructorId": "5003e27d-dd06-41d4-aa86-e783f5d2cb96",
+    "category": "Data Science",
+    "level": "advanced",
+    "duration": 7.9,
+    "price": 38.08,
+    "tags": [
+      "tech",
+      "edu"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "isPublished": true
+  },
+  {
+    "_id": {
+      "$oid": "684fbc191e9483271544a5e3"
+    },
+    "courseId": "fbf0c2fd-ca12-4b46-81ec-2c52d40a993f",
+    "title": "Course 4",
+    "description": "This is course 4 description.",
+    "instructorId": "5003e27d-dd06-41d4-aa86-e783f5d2cb96",
+    "category": "Web Dev",
+    "level": "beginner",
+    "duration": 9.5,
+    "price": 92.18,
+    "tags": [
+      "tech"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "isPublished": true
+  },
+  {
+    "_id": {
+      "$oid": "684fbc191e9483271544a5e4"
+    },
+    "courseId": "73031f2b-f705-4a90-b77b-15ef8468338d",
+    "title": "Course 5",
+    "description": "This is course 5 description.",
+    "instructorId": "8c2b1b18-94ed-455d-bd7f-3fe54c6b8393",
+    "category": "Data Science",
+    "level": "beginner",
+    "duration": 6.7,
+    "price": 129.14,
+    "tags": [
+      "tech",
+      "edu",
+      "project",
+      "practical"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "isPublished": true
+  },
+  {
+    "_id": {
+      "$oid": "684fbc191e9483271544a5e5"
+    },
+    "courseId": "4ef763fb-80c7-48e8-914c-f2f7bdae29cf",
+    "title": "Course 6",
+    "description": "This is course 6 description.",
+    "instructorId": "25717c0a-40d8-4de1-9fce-85184d6928dc",
+    "category": "Web Dev",
+    "level": "beginner",
+    "duration": 8.9,
+    "price": 69.23,
+    "tags": [
+      "tech",
+      "edu",
+      "skill"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "isPublished": true
+  },
+  {
+    "_id": {
+      "$oid": "684fbc191e9483271544a5e6"
+    },
+    "courseId": "11008f8b-bb00-4433-ba16-c891f7278160",
+    "title": "Course 7",
+    "description": "This is course 7 description.",
+    "instructorId": "d15bd8da-6260-4594-8281-6f7e34c0b971",
+    "category": "Cloud",
+    "level": "advanced",
+    "duration": 4.3,
+    "price": 92.14,
+    "tags": [
+      "tech"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:39:21.141Z"
+    },
+    "isPublished": true
+  },
+  {
+    "_id": {
+      "$oid": "684fd0c51e9483271544a656"
+    },
+    "courseId": "bb2f6188-c83e-45e9-9091-523f57beb49c",
+    "title": "Data Visualization with Python",
+    "description": "Learn how to visualize data using matplotlib and seaborn.",
+    "instructorId": "363b3454-b7e4-430b-813b-bd84fe263cb8",
+    "category": "Data Science",
+    "level": "intermediate",
+    "duration": 5.5,
+    "price": 89.99,
+    "tags": [
+      "data",
+      "visualization",
+      "python"
+    ],
+    "createdAt": {
+      "$date": "2025-06-16T02:07:33.021Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T02:07:33.021Z"
+    },
+    "isPublished": true
+  }
+]

@@ -1,0 +1,465 @@
+[
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a641"
+    },
+    "userId": "363b3454-b7e4-430b-813b-bd84fe263cb8",
+    "email": "user0@eduhub.com",
+    "firstName": "First0",
+    "lastName": "Last0",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 0's bio.",
+      "avatar": "https://avatar.com/u0.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a642"
+    },
+    "userId": "bc6dd3a0-86bf-44d1-8940-2b5ca5caefd4",
+    "email": "user1@eduhub.com",
+    "firstName": "First1",
+    "lastName": "Last1",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "Updated bio for user1.",
+      "avatar": "https://new-avatar.com/u1.png",
+      "skills": [
+        "Python"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a643"
+    },
+    "userId": "2d96a2d3-adbe-4a79-90ed-3d7374a344a1",
+    "email": "user2@eduhub.com",
+    "firstName": "First2",
+    "lastName": "Last2",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 2's bio.",
+      "avatar": "https://avatar.com/u2.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a644"
+    },
+    "userId": "a4a71120-aba3-42a0-ac0d-8945cb7afc80",
+    "email": "user3@eduhub.com",
+    "firstName": "First3",
+    "lastName": "Last3",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 3's bio.",
+      "avatar": "https://avatar.com/u3.png",
+      "skills": [
+        "Python"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a645"
+    },
+    "userId": "e7d117db-882d-4e62-852a-dd340599c765",
+    "email": "user4@eduhub.com",
+    "firstName": "First4",
+    "lastName": "Last4",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 4's bio.",
+      "avatar": "https://avatar.com/u4.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a646"
+    },
+    "userId": "7947987a-80e0-4534-9d66-5ddb22afae73",
+    "email": "user5@eduhub.com",
+    "firstName": "First5",
+    "lastName": "Last5",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 5's bio.",
+      "avatar": "https://avatar.com/u5.png",
+      "skills": [
+        "Python",
+        "Data"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a647"
+    },
+    "userId": "40e849aa-21d8-4174-8a9a-8f878982377f",
+    "email": "user6@eduhub.com",
+    "firstName": "First6",
+    "lastName": "Last6",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 6's bio.",
+      "avatar": "https://avatar.com/u6.png",
+      "skills": [
+        "Python"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a648"
+    },
+    "userId": "987c308b-eefb-49e3-abc1-738f0c1662e9",
+    "email": "user7@eduhub.com",
+    "firstName": "First7",
+    "lastName": "Last7",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 7's bio.",
+      "avatar": "https://avatar.com/u7.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a649"
+    },
+    "userId": "45c5f4ca-844a-4a84-85ed-dd629e67a36c",
+    "email": "user8@eduhub.com",
+    "firstName": "First8",
+    "lastName": "Last8",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 8's bio.",
+      "avatar": "https://avatar.com/u8.png",
+      "skills": [
+        "Python"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a64a"
+    },
+    "userId": "087ec44b-44d3-4b13-98d7-081f70721e75",
+    "email": "user9@eduhub.com",
+    "firstName": "First9",
+    "lastName": "Last9",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 9's bio.",
+      "avatar": "https://avatar.com/u9.png",
+      "skills": [
+        "Python"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a64b"
+    },
+    "userId": "0bd95c3e-a85c-4079-9de0-4adf45db6ec7",
+    "email": "user10@eduhub.com",
+    "firstName": "First10",
+    "lastName": "Last10",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 10's bio.",
+      "avatar": "https://avatar.com/u10.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a64c"
+    },
+    "userId": "f4af0a06-53e3-405a-81cb-684e1eb77f0a",
+    "email": "user11@eduhub.com",
+    "firstName": "First11",
+    "lastName": "Last11",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 11's bio.",
+      "avatar": "https://avatar.com/u11.png",
+      "skills": [
+        "Python",
+        "Data"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a64d"
+    },
+    "userId": "4bb9aa90-523c-4930-808e-612a205bbcb7",
+    "email": "user12@eduhub.com",
+    "firstName": "First12",
+    "lastName": "Last12",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 12's bio.",
+      "avatar": "https://avatar.com/u12.png",
+      "skills": [
+        "Python",
+        "Data"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a64e"
+    },
+    "userId": "bb1e71ae-dd01-40e5-aa6f-f5792512617b",
+    "email": "user13@eduhub.com",
+    "firstName": "First13",
+    "lastName": "Last13",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 13's bio.",
+      "avatar": "https://avatar.com/u13.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a64f"
+    },
+    "userId": "3ec52f73-3704-4c00-94ec-10c2287a0e2d",
+    "email": "user14@eduhub.com",
+    "firstName": "First14",
+    "lastName": "Last14",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 14's bio.",
+      "avatar": "https://avatar.com/u14.png",
+      "skills": [
+        "Python"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a650"
+    },
+    "userId": "6b1f4e01-af6e-4d42-80f6-45be62d5b3fb",
+    "email": "user15@eduhub.com",
+    "firstName": "First15",
+    "lastName": "Last15",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 15's bio.",
+      "avatar": "https://avatar.com/u15.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a651"
+    },
+    "userId": "4e610178-7d65-4958-8e5e-fb3dcf542fcb",
+    "email": "user16@eduhub.com",
+    "firstName": "First16",
+    "lastName": "Last16",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 16's bio.",
+      "avatar": "https://avatar.com/u16.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a652"
+    },
+    "userId": "097a1659-9b60-4f2a-922a-dfe0fc6f70a0",
+    "email": "user17@eduhub.com",
+    "firstName": "First17",
+    "lastName": "Last17",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 17's bio.",
+      "avatar": "https://avatar.com/u17.png",
+      "skills": [
+        "Python",
+        "Data",
+        "Web"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a653"
+    },
+    "userId": "2147e3e1-112f-4510-a013-f36e7ae1ea34",
+    "email": "user18@eduhub.com",
+    "firstName": "First18",
+    "lastName": "Last18",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 18's bio.",
+      "avatar": "https://avatar.com/u18.png",
+      "skills": [
+        "Python"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fcbd81e9483271544a654"
+    },
+    "userId": "94b94a2d-9b42-46ad-a298-3cf11c1b237f",
+    "email": "user19@eduhub.com",
+    "firstName": "First19",
+    "lastName": "Last19",
+    "role": "instructor",
+    "dateJoined": {
+      "$date": "2025-06-16T01:46:32.410Z"
+    },
+    "profile": {
+      "bio": "This is user 19's bio.",
+      "avatar": "https://avatar.com/u19.png",
+      "skills": [
+        "Python"
+      ]
+    },
+    "isActive": true
+  },
+  {
+    "_id": {
+      "$oid": "684fd0a71e9483271544a655"
+    },
+    "userId": "1158dfed-6077-492d-b037-f066f28256fc",
+    "firstName": "Ada",
+    "lastName": "Okoro",
+    "email": "ada.okoro@example.com",
+    "role": "student",
+    "dateJoined": {
+      "$date": "2025-06-16T02:07:03.657Z"
+    },
+    "profile": {
+      "bio": "A passionate learner",
+      "avatar": "https://example.com/avatar.png",
+      "skills": [
+        "Python",
+        "MongoDB"
+      ]
+    },
+    "isActive": true
+  }
+]

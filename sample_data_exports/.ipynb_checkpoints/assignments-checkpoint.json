@@ -1,0 +1,192 @@
+[
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a61e"
+    },
+    "assignmentId": "82cf9435-a61f-4ef4-9224-2c49cbf576ce",
+    "courseId": "11008f8b-bb00-4433-ba16-c891f7278160",
+    "title": "Assignment 0",
+    "description": "This is the description for assignment 0.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.945Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.945Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a61f"
+    },
+    "assignmentId": "e872e209-e94a-43ae-90c5-03fe9765f6e2",
+    "courseId": "4ef763fb-80c7-48e8-914c-f2f7bdae29cf",
+    "title": "Assignment 1",
+    "description": "This is the description for assignment 1.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.945Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.945Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a620"
+    },
+    "assignmentId": "9b32da47-4778-46d4-acac-333a297956cd",
+    "courseId": "8eb2a4be-6637-4632-bb1b-ac5c718b40d9",
+    "title": "Assignment 2",
+    "description": "This is the description for assignment 2.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.945Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.945Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a621"
+    },
+    "assignmentId": "81619be9-0f51-4f20-a98c-7c728ffded4a",
+    "courseId": "11008f8b-bb00-4433-ba16-c891f7278160",
+    "title": "Assignment 3",
+    "description": "This is the description for assignment 3.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.945Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.945Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a622"
+    },
+    "assignmentId": "e3caff7b-c682-4a1c-887b-43131e103652",
+    "courseId": "73031f2b-f705-4a90-b77b-15ef8468338d",
+    "title": "Assignment 4",
+    "description": "This is the description for assignment 4.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a623"
+    },
+    "assignmentId": "0ce1c92c-0636-4270-8716-1800cb5d6e33",
+    "courseId": "8eb2a4be-6637-4632-bb1b-ac5c718b40d9",
+    "title": "Assignment 5",
+    "description": "This is the description for assignment 5.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a624"
+    },
+    "assignmentId": "cd746046-4c8b-452c-8b86-bb84ca967b18",
+    "courseId": "8eb2a4be-6637-4632-bb1b-ac5c718b40d9",
+    "title": "Assignment 6",
+    "description": "This is the description for assignment 6.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a625"
+    },
+    "assignmentId": "75bc475c-1df5-4ef4-82ca-ad6385913d37",
+    "courseId": "c1d12b8a-a8c6-4252-85f1-97404ac840fb",
+    "title": "Assignment 7",
+    "description": "This is the description for assignment 7.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a626"
+    },
+    "assignmentId": "07a88277-4481-46ad-a77b-e71db41e7a26",
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Assignment 8",
+    "description": "This is the description for assignment 8.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "684fc05f1e9483271544a627"
+    },
+    "assignmentId": "d62571cb-0268-4db5-bd03-a4ed4fb27dff",
+    "courseId": "94194e1c-4215-4bb0-930e-d577bc162e24",
+    "title": "Assignment 9",
+    "description": "This is the description for assignment 9.",
+    "dueDate": {
+      "$date": "2025-12-31T00:00:00Z"
+    },
+    "totalMarks": 100,
+    "createdAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    },
+    "updatedAt": {
+      "$date": "2025-06-16T00:57:35.946Z"
+    }
+  }
+]
